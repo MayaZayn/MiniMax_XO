@@ -18,5 +18,5 @@ Briefly, ComputerPlayer uses minimax that is based on backtracking (checking all
 
 Language Used: C++
 * I implemented ComputerPlayer class. 
-* The other classes are implemented by Dr.Mohamed El-Ramly.
+* The other classes are implemented by **Dr.Mohamed El-Ramly**.
 ### 
