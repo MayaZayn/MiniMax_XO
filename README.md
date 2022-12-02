@@ -1,5 +1,5 @@
 # MiniMax_XO
-XO with smart computer player - the computer either wins or it's a draw!
+XO with smart computer player - the computer either wins or it's a tie!
 
 When implementing XO with a computer player, we can either make the computer choose random moves or we can use an algorithm to make the computer player "smart". Therefore, I used [minimax algorithm](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/) in the ComputerPlayer class. 
 
